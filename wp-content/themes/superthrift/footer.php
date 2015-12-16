@@ -106,6 +106,5 @@
         </script>
         <?php wp_footer(); ?>
 
-<!--This is a test -->
 </body>
 </html>

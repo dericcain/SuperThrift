@@ -118,7 +118,7 @@ Template Name: Find a store
                             echo '<dl class="dl-address">';
                             echo '<dt><i class="fa fa-map-marker"></i>Address:</dt><dd>' . $store['address'] . '<br>' . $store['city'] . ', ' . $store['state'] . ' ' . $store['zip'] . '</dd>';
                             echo '<dt><i class="fa fa-phone"></i>Phone Number:</dt><dd>' . $store['phone'] . '</dd>';
-                            echo '<dt><i class="fa fa-at"></i>Email Address:</dt><dd>' . $store['email'] . '</dd>';
+                            echo '<dt><i class="fa fa-at"></i>Email Address:</dt><dd><a href="mailto:' . $store['email'] . '"><small class="small-email">' . $store['email'] . '</small></a></dd>';
                             echo '</dl>';
                             
                             
@@ -157,7 +157,7 @@ Template Name: Find a store
           <div id="donate-navigate">
             <div class="navigate-header">
                 <p class="text-center"><svg class="icon-svg"><use xlink:href="#color-east-direction" /></svg></p>
-                <h2 class="text-center text-white">You are being redirected</h2>
+                <h2 class="text-center text-white">You are being redirected...</h2>
               </div>
               <div class="navigate-body">
                 <p>Thank you for donating to your local Teen Challenge! You are being redirected to the Teen Challenge website to complete your donation via a secure online donation form.</p>
