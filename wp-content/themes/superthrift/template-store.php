@@ -119,13 +119,14 @@ Template Name: Find a store
                             echo '<dt><i class="fa fa-map-marker"></i>Address:</dt><dd>' . $store['address'] . '<br>' . $store['city'] . ', ' . $store['state'] . ' ' . $store['zip'] . '</dd>';
                             echo '<dt><i class="fa fa-phone"></i>Phone Number:</dt><dd>' . $store['phone'] . '</dd>';
                             echo '<dt><i class="fa fa-at"></i>Email Address:</dt><dd><a href="mailto:' . $store['email'] . '"><small class="small-email">' . $store['email'] . '</small></a></dd>';
+                            echo '<dt class="text-center"><i class="fa fa-truck text-orange"></i>We deliver!</dt>';
                             echo '</dl>';
                             
                             
                           ?>
 
                         </div>
-                        <?php echo '<div class="store-donate"><a href="' . $store['donate_link'] . '" class="btn btn-danger btn-donate">Donate</a></div>'; ?>
+                        <?php echo '<div class="store-donate"><a href="' . $store['donate_link'] . '" class="btn btn-danger btn-3d btn-donate">Donate</a></div>'; ?>
                       </div>
                        <?php  ?> 
                     </div>
