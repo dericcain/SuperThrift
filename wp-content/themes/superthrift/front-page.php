@@ -13,11 +13,11 @@ get_header(); ?>
         if (!empty($intro_title)) {
           echo $intro_title;
         } else {
-        	echo 'Change a Life. Shop With Us!';
+        	echo 'Change a Life.<br>Shop With Us!';
         }
         ?></h1>
         <p class="text-center">
-          <button type="button" class="btn" id="map-intro-btn">Let's go!</button>
+          <button type="button" class="btn" id="map-intro-btn">Find a store!</button>
         </p>
         
           
@@ -77,7 +77,7 @@ get_header(); ?>
                   <div class="col-sm-12">
                     <p class="text-center">What if shopping changed lives? When you shop at SuperThrift, your every purchase makes a lifetime of difference for someone recovering from a life-controlling addiction.</p>
                     
-                    <p class="text-center">Our chain of thrift stores across the southeast region of the United States provides quality goods to raise support for teens and adults enrolled in Teen Challenge - a non-profit specializing in the recovery and prevention of life-controlling issues. That means when you buy or donate, someone in need benefits!</p>
+                    <p class="text-center">Our chain of thrift stores across the Southeast region of the United States provides quality goods to raise support for teens and adults enrolled in Teen Challenge - a non-profit specializing in the recovery and prevention of life-controlling issues. That means when you buy or donate, someone in need benefits!</p>
 
                     <p class="text-center"><strong>Shopping never felt so good.</strong></p>
 
@@ -190,7 +190,7 @@ get_header(); ?>
       <div class="col-md-6 col-left">
         <p class="text-center"><svg class="icon-svg"><use xlink:href="#color-truck" /></svg></p>
         <h2 class="text-center text-white">Request Pickup for Donation</h2>
-        <p class="text-center">We love to serve our customers! If you have an item that is too large to drop off at one of our drop-off locations, we can come pick it up. Please fill out the form below and we will coordinate a pick up as soon as we can.</p>
+        <p class="text-center">We love to serve our customers! If you have an item that is too large to drop off at one of our drop-off locations, we can come pick it up. Please fill out the form and we will coordinate a pick up as soon as we can.</p>
       </div>
       
       <div class="col-md-6 col-right">

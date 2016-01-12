@@ -66,15 +66,15 @@ Template Name: Why SuperThrift Template
                                         <use xlink:href="#color-heart-health"/>
                                 </p>
                                 <h2 class="text-center text-white">It doesn’t have to be this way.</h2>
-                                <p class="text-white">For over 55 years, Teen Challenge has been fighting addiction on
-                                    the frontline, with over 1100 centers in 110 nations. Their programs change lives,
+                                <p class="text-black fw-400">For over 55 years, Teen Challenge has been fighting addiction on
+                                    the frontline, with over 1100 centers in 114 nations. Their programs change lives,
                                     with one of the highest addiction recovery success rates anywhere in the world.</p>
-                                <p class="text-white">SuperThrift got its start when a Teen Challenge center in
+                                <p class="text-black fw-400">SuperThrift got its start when a Teen Challenge center in
                                     Pensacola bought a thrift store and donated all proceeds from sales to support their
                                     students. This one store soon became seven as Teen Challenge centers across the
-                                    Southeastern United States replicated the model. Each year we continue to grow, on a
+                                    southeastern United States replicated the model. Each year we continue to grow as we are on a
                                     mission to put hope within reach of every addict.</p>
-                                <p class="text-white">This is why SuperThrift is the best place to shop and donate your
+                                <p class="text-black fw-400">This is why SuperThrift is the best place to shop and donate your
                                     household goods. When you buy and give, you provide the additional support local
                                     Teen Challenge students need to complete their recovery program and find freedom
                                     from addiction.</p>
@@ -97,7 +97,7 @@ Template Name: Why SuperThrift Template
                             <h2 class="text-center">Need Help?</h2>
                             <p class="text-center">Do you or someone you know need help? Click the link below to visit the Teen Challenge
                                 website.
-                                There, you can find information on getting the help that you need.</p>
+                                There you can find information on getting the help that you need.</p>
                             <p class="text-center"><a href="http://teenchallenge.cc" target="_blank" class="btn btn-3d btn-primary">Find Hope!</a></p>
                         </div>
                     </div>

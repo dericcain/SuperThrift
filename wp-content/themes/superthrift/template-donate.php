@@ -28,7 +28,7 @@ Template Name: How to Donate Template
             <div class="col-sm-4 col-sm-offset-1">
               <p class="text-center"><svg class="icon-svg"><use xlink:href="#color-shop" /></p>
               <h4 class="text-center text-white">Donate To A Local SuperThrift</h4>
-              <p class="text-center text-white">Donate your items by dropping them at a local SuperThrift store or dropbox location. To donate larger items, please contact your local store or submit an online form.</p>
+              <p class="text-center text-white">Donate your items by dropping them at a local SuperThrift store or dropbox location. To donate larger items, please contact your local store or <a href="<?php echo site_url() ?>/request-a-pickup">click here</a> to submit an online form.</p>
               <p class="text-center"><a href="<?php echo site_url(); ?>/find-a-store" class="btn btn-danger btn-3d">Find a store!</a></p>
             </div>
             <div class="col-sm-4 col-sm-offset-2">

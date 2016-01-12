@@ -119,6 +119,9 @@ Template Name: Find a store
                             echo '<dt><i class="fa fa-map-marker"></i>Address:</dt><dd>' . $store['address'] . '<br>' . $store['city'] . ', ' . $store['state'] . ' ' . $store['zip'] . '</dd>';
                             echo '<dt><i class="fa fa-phone"></i>Phone Number:</dt><dd>' . $store['phone'] . '</dd>';
                             echo '<dt><i class="fa fa-at"></i>Email Address:</dt><dd><a href="mailto:' . $store['email'] . '"><small class="small-email">' . $store['email'] . '</small></a></dd>';
+                            if($store['ebay_link'] != '') {
+                              echo '<dt><i class="fa fa-shopping-cart"></i>Online Store:</dt><dd><a target="_blank" href="' . $store['ebay_link'] . '">Check out our online store!</a></dd>';
+                            }
                             echo '<dt class="text-center"><i class="fa fa-truck text-orange"></i>We deliver!</dt>';
                             echo '</dl>';
                             

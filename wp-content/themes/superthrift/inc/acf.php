@@ -210,13 +210,13 @@ if(function_exists("register_field_group")) {
 				'type' => 'text',
 		'required' => 0,
 			),
-      /*array (
-				'key' => 'field_5489storenote',
-				'label' => 'Note',
-				'name' => 'store_info',
+      	array (
+				'key' => 'field_5489storeebay',
+				'label' => 'Ebay Link',
+				'name' => 'ebay_link',
 				'type' => 'text',
         'required' => 0,
-			),*/
+			),
 		),
 		'location' => array (
 			array (

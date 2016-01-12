@@ -41,7 +41,7 @@ Template Name: Request a pickup
                           <div class="col-md-6 col-left">
                             <p class="text-center"><svg class="icon-svg"><use xlink:href="#color-truck" /></svg></p>
                             <h1 class="text-center text-white">Request Pickup for Donation</h1>
-                            <p class="text-center">We love to serve our customers! If you have an item that is too large to drop off at one of our drop-off locations, we can come pick it up. Please fill out the form below and we will coordinate a pick up as soon as we can.</p>
+                            <p class="text-center">We love to serve our customers! If you have an item that is too large to drop off at one of our drop-off locations, we can come pick it up. Please fill out the form and we will coordinate a pick up as soon as we can.</p>
                           </div>
                           
                           <div class="col-md-6 col-right">

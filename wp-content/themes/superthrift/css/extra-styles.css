@@ -91,7 +91,7 @@ p {
 }
 
 #section-answer .col-half-background {
-	background: url("../img/employee-working.jpg") no-repeat top scroll;
+	background: url("../img/male-employee.jpg") no-repeat top scroll;
 	background-size: cover;
 }
 
@@ -154,4 +154,8 @@ h4.map-title-store:before {
 
 .text-orange {
 	color: #FB9A28;
+}
+
+.fw-400 {
+	font-weight: 400;
 }

@@ -18,7 +18,7 @@ function get_map_data_stores()
         $state = $metas['store_state'][0];
         $email = $metas['store_email'][0];
         $phone = $metas['store_phone'][0];
-        
+        $ebay_link = $metas['ebay_link'][0];
         $monday = $metas['store_monday'][0];
         $tuesday = $metas['store_tuesday'][0];
         $wednesday = $metas['store_wednesday'][0];
@@ -51,6 +51,7 @@ function get_map_data_stores()
             'sunday' => $sunday,
             'note' => $note,
             'donate_link' => $donate_link,
+            'ebay_link' => $ebay_link
         );
 
     }
